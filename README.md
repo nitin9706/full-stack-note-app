@@ -131,8 +131,6 @@ npm start
 
 ## Future Enhancements
 
-- User authentication
-- JWT-based security
 - Docker support
 - UI improvements
 
