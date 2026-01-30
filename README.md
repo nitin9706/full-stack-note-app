@@ -135,8 +135,3 @@ npm start
 - UI improvements
 
 ---
-
-## License
-
-This project is licensed under the MIT License.
-#
